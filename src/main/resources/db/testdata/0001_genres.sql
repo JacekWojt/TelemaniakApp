@@ -1,0 +1,10 @@
+insert into genre (name, description) values ('Dramat', 'Wydarzenia i akcja skupione wokół głównego bohatera');
+insert into genre (name, description) values ('Komedia', 'Dobra zabawa dla całej rodziny');
+insert into genre (name, description) values ('Romantyczny', 'Duża dawka miłosnych uniesień');
+insert into genre (name, description) values ('Fantasy', 'Świat pełen magii');
+insert into genre (name, description) values ('Dokument', 'Rzeczywistość taka jaka jest');
+insert into genre (name, description) values ('Akcja', 'Maksymalne tempo akcji');
+insert into genre (name, description) values ('Wojenny', 'Historie, które wydarzyły się naprawdę');
+insert into genre (name, description) values ('Sci-Fi', 'Odkryj świat przyszłości');
+insert into genre (name, description) values ('Muzyczny', 'Muzyka, piosenka i taniec');
+insert into genre (name, description) values ('Animacja', 'Nie tylko dla najmłodszych');
